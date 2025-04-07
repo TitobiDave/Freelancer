@@ -20,8 +20,10 @@ A simple Freelancing Api that uses jwt for authentication
 Make sure you have the following installed:
 
 - [.NET SDK](https://dotnet.microsoft.com/download)
+- You may need to run dotnet restore in the terminal
+- And also change the appsettings Connection string
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/titobidavid.git
+git clone https://github.com/TitobiDave/Freelancer.git
